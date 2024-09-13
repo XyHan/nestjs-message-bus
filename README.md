@@ -2,7 +2,8 @@
 
 A simple TypeScript Message bus for NestJS
 
-Require
+**Require**
+
 "@nestjs/common",
 "@nestjs/core",
 "@types/uuid",
@@ -12,4 +13,9 @@ Require
 "typedi",
 "uuid"
 
-Package.json being written
+
+**Incoming**
+
+* Package.json
+* Documentation
+* Tests
